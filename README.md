@@ -1,4 +1,5 @@
-### Hi there 👋
+### [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord&no-frame=true&margin-h=15&margin-w=15&row=2&column=3&)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **andyyrv2020/andyyrv2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
