@@ -7,7 +7,7 @@
 
 - 📫 How to reach me - **andyrashev123@icloud.com**
 
-- ⚡ Fun fact **I play games**
+- ⚡ Fun fact **I play games and train martial arts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
