@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Andrey Rashev</h1>
-- 🔭 I’m currently working on - [Dental Appointment App](https://github.com/andyyrv2020/DentalAppointment)
-
 - 💻I'm currently learning - **C#, Java, HTML and CSS**
 
 - 🏫The official website of my school - **http://pgee-bourgas.com/**
