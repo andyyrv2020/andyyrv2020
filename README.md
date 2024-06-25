@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyyrv2020&label=Profile%20views&color=0e75b6&style=flat" alt="andyyrv2020" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce App] ([https://github.com/andyyrv2020/Bulky])
+- 🔭 I’m currently working on [E-Commerce App]([https://github.com/andyyrv2020/Bulky])
 
 - 🌱 I’m currently learning **C# Masterclass and ASP.NET8 MVC**
 
