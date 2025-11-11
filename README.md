@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrey Rashev</h1>
-<h3 align="center">A passionate Software Engineering Student from Bulgaria</h3>
+<h3 align="center">A passionate Information and Network Security student from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyyrv2020&label=Profile%20views&color=0e75b6&style=flat" alt="andyyrv2020" /> </p>
 
 - 🔭 I’m currently working on [E-Commerce App]([https://github.com/andyyrv2020/Bulky])
 
-- 🌱 I’m currently learning **C# Masterclass and ASP.NET8 MVC**
+- 🌱 I’m currently learning **C# Masterclass and ASP.NET10 MVC**
 
 - 📫 How to reach me **andyrashev123@icloud.com**
 
